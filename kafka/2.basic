@@ -1,5 +1,5 @@
 Environment Variables
-'''code
+'''
 export KAFKA_HOME=/usr/local/kafka
 export PATH="$PATH:${KAFKA_HOME}/bin"
 '''
