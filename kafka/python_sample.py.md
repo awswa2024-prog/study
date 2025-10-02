@@ -1,5 +1,5 @@
 kafka-consumer.py
-···
+```
 #!/usr/bin/env python3
 
 # Usage:
@@ -48,10 +48,10 @@ def get_kafka_consumer(topic_name, servers=['localhost:9092']):
 
 if __name__ == "__main__":
   main(sys.argv[1:])
-···
+```
 
 kafka-producer.py
-···
+```
 #!/usr/bin/env python3
 
 # Usage:
@@ -100,4 +100,4 @@ def get_kafka_producer(servers=['localhost:9092']):
 
 if __name__ == "__main__":
   main(sys.argv[1:])
-···
+```
