@@ -1,4 +1,4 @@
-kafka-consumer.py
+**kafka-consumer.py**
 ```
 #!/usr/bin/env python3
 
@@ -50,7 +50,7 @@ if __name__ == "__main__":
   main(sys.argv[1:])
 ```
 
-kafka-producer.py
+**kafka-producer.py**
 ```
 #!/usr/bin/env python3
 
